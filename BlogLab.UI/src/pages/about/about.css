@@ -1,0 +1,87 @@
+.about {
+    position: relative;
+    flex: 3;
+    margin: 0;
+    padding-bottom: 30px;
+    background-color: #f9fafb;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: 'Lora', sans-serif;
+  }
+    
+    .aboutItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+    }
+    
+    .aboutProfile {
+    border-radius: 50%;
+    width: 8rem;
+    height: 8rem;
+    object-fit: cover;
+    margin-bottom: 2rem;
+    border: 3px solid #f9fafb;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .follow {
+    margin: 0;
+    font-size: clamp(1rem, 3vw, 1.5rem);
+    font-weight: 600;
+    color: #222;
+    line-height: 0;
+    text-align: center;
+    }
+    
+    .text {
+    font-size: clamp(1rem, 3vw, 1.2rem);
+    font-family: 'Lora', sans-serif;
+    color: #555;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+    max-width: 40rem;
+    margin-top: 0rem;
+    }
+    
+    .headProfile {
+    font-size: clamp(1rem, 3vw, 1.5rem);
+    font-family: 'Lora', sans-serif;
+    color: #222;
+    margin-bottom: 2rem;
+    }
+    
+    .topIconss i {
+    font-size: 3rem;
+    color: #222;
+    transition: all 0.2s ease;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    }
+    
+    .topIconss i:hover {
+    color: #0c0c0c;
+    transform: scale(1.1);
+    cursor: pointer;
+    }
+    .textVid {
+    font-size: clamp(1rem, 3vw, 1.2rem);
+    font-family: 'Lora', sans-serif;
+    color: #555;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+    max-width: 40rem;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    }
+    .camper {
+        border-radius: 20px;
+        text-align: center;
+    }

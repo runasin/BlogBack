@@ -1,0 +1,14 @@
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\bin\Debug\net6.0\BlogFull.Model.deps.json
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\bin\Debug\net6.0\BlogFull.Model.runtimeconfig.json
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\bin\Debug\net6.0\BlogFull.Model.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\bin\Debug\net6.0\BlogFull.Model.pdb
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.csproj.AssemblyReference.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.AssemblyInfoInputs.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.AssemblyInfo.cs
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\refint\BlogFull.Model.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.pdb
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\BlogFull.Model.genruntimeconfig.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Model\obj\Debug\net6.0\ref\BlogFull.Model.dll

@@ -1,0 +1,15 @@
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\bin\Debug\net6.0\BlogFull.Repository.deps.json
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\bin\Debug\net6.0\BlogFull.Repository.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\bin\Debug\net6.0\BlogFull.Repository.pdb
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.csproj.AssemblyReference.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.AssemblyInfoInputs.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.AssemblyInfo.cs
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.csproj.CopyComplete
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\refint\BlogFull.Repository.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\BlogFull.Repository.pdb
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\obj\Debug\net6.0\ref\BlogFull.Repository.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\bin\Debug\net6.0\BlogFull.Entity.dll
+C:\Users\berke\source\repos\BlogFull\BlogFull.Repository\bin\Debug\net6.0\BlogFull.Entity.pdb
