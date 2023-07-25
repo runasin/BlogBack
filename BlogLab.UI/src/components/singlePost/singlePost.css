@@ -1,0 +1,161 @@
+.singlePost {
+    flex: 9;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    }
+    
+    .singlePostWrapper {
+    padding: 2px;
+    padding-right: 0;
+    }
+    
+    .singlePostImg {
+    width: 100%;
+    height: 646px;
+    border-radius: 15px;
+    object-fit: cover;
+    }
+    
+    .singlePostTitle {
+    text-align: center;
+    margin: 6px;
+    font-family: 'Lora', sans-serif;
+    font-size: 45px;
+    color: #222;
+    }
+    
+    .singlePostEdit {
+    float: right;
+    font-size: 16px;
+    color: #444;
+    font-family: 'Open Sans', sans-serif;
+    }
+    
+    .singlePostIcon {
+        margin-left: 10px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        color: darkred;
+        font-size: larger;
+      }
+      
+      .singlePostIcon:hover{
+        background-color: rgba(0, 0, 0, 0.05);
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+        transform: translateY(-3px);
+      }
+    
+    .singlePostInfo {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-family: 'Varela', sans-serif;
+    color: green;
+    }
+    
+    .singlePostDesc {
+    color: #333;
+    font-size: 17px;
+    line-height: 1.5;
+    font-family: 'Varela', sans-serif;
+    margin-top: 20px;
+    text-align: center;
+    }
+    
+    .singlePostDesc::first-letter {
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: 600;
+    color: #444;
+    float: left;
+    margin-right: 10px;
+    }
+    
+    .commentFlexbox {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 40px;
+        }
+        
+        .commentText {
+        margin: 12px 0;
+        font-size: 1.4rem;
+        font-weight: 600;
+        font-family: 'Lora', sans-serif;
+        color: #222;
+        text-align: center;
+        }
+        
+        .inputBox {
+        height: 75px;
+        width: 40%;
+        background-color: #ECEFF1;
+        color: black;
+        font-family: 'Lora', sans-serif;
+        border-radius: 15px;
+        padding: 10px;
+        margin-bottom: 20px;
+        font-size: 1.2rem;
+        border: none;
+        outline: none;
+        margin: 0 auto;
+        }
+        
+        .commentButton {
+        height: 25px;
+        width: 10%;
+        background-color: #ECEFF1;
+        color: black;
+        font-size: 1.05rem;
+        margin-top: 10px;
+        border-radius: 15px;
+        border-style: none;
+        cursor: pointer;
+        font-family: 'Lora', sans-serif;
+        transition: background-color 0.3s ease;
+        margin: 5 auto;
+        margin-bottom: 30px;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease;
+        }
+        
+        .commentButton:hover {
+            background-color: darkgreen;
+            transform: translateY(-5px);
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        .commentContainer {
+        height: auto;
+        width: 40%;
+        background-color: #ECEFF1;
+        color: #444;
+        border-radius: 10px;
+        margin: 10px 0;
+        padding: 10px;
+        word-wrap: break-word;
+        font-family: 'Varela', sans-serif;
+        font-style: italic;
+        position: relative;
+        }
+        
+        .commentContainer p {
+        margin: 0;
+        }
+        
+        .deleteCom {
+        border-style: none;
+        float:right;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        color: darkred;
+        background-color: #ECEFF1;
+        font-size:large;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        }
+       
